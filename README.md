@@ -74,4 +74,4 @@ endmodule
 
 
 **RESULTS**
-Thus te program is executed successfully.
+Thus the program is executed successfully.
